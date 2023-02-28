@@ -305,6 +305,8 @@
   height: 300px;
   background-image: url("../images/enzo.berry_16182593-1e28-4097-ac78-24f0f2096159.jpg");
   background-position: 50% 0%;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  text-shadow: 0px 0px 0px rgba(0,0,0,0);
   margin: 0 auto;
 }
 
@@ -350,6 +352,11 @@
 
   .u-section-2 .u-layout-cell-1 {
     min-height: 346px;
+  }
+
+  .u-section-2 .u-image-1 {
+    transition-duration: 0.5s;
+    transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   }
 
   .u-section-2 .u-layout-cell-2 {
