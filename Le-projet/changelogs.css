@@ -12,7 +12,6 @@
   grid-template-columns: 100%;
   grid-gap: 10px 10px;
   min-height: 315px;
-  grid-auto-columns: 100%;
 }
 
 .u-section-1 .u-container-layout-1 {
