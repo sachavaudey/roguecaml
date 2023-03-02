@@ -40660,21 +40660,26 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+   .u-header {
+    min-height: 186px;
+  }
+
   .u-header .u-menu-1 {
-    margin-right: calc(((100% - 1140px) / 2) + 342px);
+    margin-right: calc(((100% - 340px) / 2) + -22px);
   }
 
   .u-header .u-image-1 {
     width: 102px;
-    margin-top: -117px;
-    margin-left: calc(((100% - 340px) / 2) + -80px);
+    height: 203px;
+    margin-top: -116px;
+    margin-left: 0;
   }
 
   .u-header .u-text-1 {
     font-size: 1.25rem;
-    margin-top: -118px;
-    margin-right: 0;
-    margin-left: calc(((100% - 1140px) / 2) + 454px);
+    margin-top: -113px;
+    margin-right: calc(((100% - 340px) / 2) + -36px);
+    margin-left: calc(((100% - 340px) / 2) + 40px);
   }
 }
  .u-footer {
