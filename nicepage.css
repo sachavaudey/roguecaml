@@ -40573,11 +40573,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-text-1 {
   font-size: 3rem;
-  margin: -95px auto 0 calc(((100% - 1140px) / 2) + 107px);
+  margin: -95px auto 0 calc(((100% - 1140px) / 2) + 120px);
 }
 
 .u-header .u-menu-1 {
-  margin: -45px 0 60px auto;
+  margin: -45px calc(((100% - 1140px) / 2) + -30px) 60px auto;
 }
 
 .u-header .u-nav-1 {

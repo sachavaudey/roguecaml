@@ -1,12 +1,12 @@
  .u-section-1 {
-  min-height: 737px;
+  min-height: 725px;
 }
 
 .u-section-1 .u-slider-1 {
   min-height: 724px;
   height: auto;
-  margin-top: 0;
-  margin-bottom: 13px;
+  margin-top: 1px;
+  margin-bottom: 1px;
 }
 
 .u-section-1 .u-carousel-indicators-1 {
@@ -554,11 +554,6 @@
 .u-section-3 .u-text-5 {
   font-weight: 700;
   margin: -94px 16px 0 152px;
-}
-
-.u-section-3 .u-btn-1 {
-  background-image: none;
-  padding: 0;
 }
 
 .u-section-3 .u-text-6 {
