@@ -246,18 +246,22 @@
 
 @media (max-width: 575px) {
    .u-section-2 {
-    min-height: 1031px;
+    min-height: 1183px;
   }
 
   .u-section-2 .u-image-1 {
-    width: 340px;
-    height: 307px;
+    height: 440px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-2 .u-list-1 {
     width: 340px;
-    margin-top: 236px;
+    margin-top: 48px;
     margin-left: auto;
+    margin-bottom: 55px;
+    height: auto;
   }
 } .u-section-3 {
   background-image: none;
@@ -519,29 +523,38 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 738px;
+    min-height: 802px;
   }
 
   .u-section-3 .u-shape-1 {
-    margin-top: 255px;
+    height: 778px;
+    margin-top: 12px;
   }
 
   .u-section-3 .u-image-1 {
     height: 266px;
     width: 317px;
-    margin-top: -576px;
+    margin-top: -772px;
   }
 
   .u-section-3 .u-slider-1 {
     width: 312px;
-    min-height: 438px;
-    margin-top: -54px;
-    margin-left: 0;
+    min-height: 448px;
+    margin-top: 18px;
+    margin-bottom: 52px;
+  }
+
+  .u-section-3 .u-carousel-indicators-1 {
+    bottom: 14px;
   }
 
   .u-section-3 .u-container-layout-1 {
     padding-left: 50px;
     padding-right: 50px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
   }
 
   .u-section-3 .u-text-2 {
