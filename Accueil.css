@@ -370,6 +370,7 @@
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 } .u-section-3 {
   background-image: url("images/default-image.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -825,9 +826,9 @@
   white-space: nowrap;
   height: 32px;
   min-height: 16px;
-  width: 188px;
-  min-width: 124px;
-  margin: 29px auto 0 0;
+  width: 32px;
+  min-width: 16px;
+  margin: 20px auto 0 0;
 }
 
 .u-section-5 .u-icon-1 {
@@ -911,11 +912,6 @@
 
   .u-section-5 .u-text-2 {
     font-size: 1.5rem;
-  }
-
-  .u-section-5 .u-social-icons-1 {
-    width: 32px;
-    min-width: 16px;
   }
 
   .u-section-5 .u-icon-1 {
