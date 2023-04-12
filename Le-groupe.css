@@ -302,4 +302,257 @@
 
 .u-section-3 .u-text-1 {
   margin: 1px 0 30px;
+} .u-section-4 {
+  background-image: none;
+  min-height: 388px;
+}
+
+.u-section-4 .u-slider-1 {
+  min-height: 389px;
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-section-4 .u-carousel-item-1 {
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 80px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 83px;
+  height: 83px;
+  background-image: url("images/enzo.berry_16182593-1e28-4097-ac78-24f0f2096159.jpg");
+  background-position: 50% 0%;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 1.25rem;
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-weight: 700;
+  margin: 35px auto 0;
+}
+
+.u-section-4 .u-text-3 {
+  font-size: 1rem;
+  font-weight: 400;
+  margin: 15px auto 0;
+}
+
+.u-section-4 .u-carousel-item-2 {
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 80px;
+}
+
+.u-section-4 .u-image-2 {
+  width: 83px;
+  height: 83px;
+  background-image: url("images/maxime.danion_ac2c1777-a037-4d9c-90de-a99b8c75e2b9.jpg");
+  background-position: 50% 0%;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-text-4 {
+  font-size: 1.25rem;
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-text-5 {
+  font-weight: 700;
+  margin: 35px auto 0;
+}
+
+.u-section-4 .u-text-6 {
+  font-size: 1rem;
+  font-weight: 400;
+  margin: 10px auto 0;
+}
+
+.u-section-4 .u-carousel-item-3 {
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 30px 80px;
+}
+
+.u-section-4 .u-image-3 {
+  width: 83px;
+  height: 83px;
+  background-image: url("images/simon.lecubin_d875bac5-7a14-41da-96c1-ea9868bbd9a4.jpg");
+  background-position: 50% 0%;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-text-7 {
+  font-size: 1.25rem;
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-text-8 {
+  font-weight: 700;
+  margin: 35px auto 0;
+}
+
+.u-section-4 .u-text-9 {
+  font-size: 1rem;
+  font-weight: 400;
+  margin: 10px auto 0;
+}
+
+.u-section-4 .u-carousel-item-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding: 30px 80px;
+}
+
+.u-section-4 .u-image-4 {
+  width: 83px;
+  height: 83px;
+  background-image: url("images/sacha.vaudey_241dcd79-8239-451f-8068-915e7bf0751d.jpg");
+  background-position: 50% 0%;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-text-10 {
+  font-size: 1.25rem;
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-text-11 {
+  font-weight: 700;
+  margin: 35px auto 0;
+}
+
+.u-section-4 .u-text-12 {
+  font-size: 1rem;
+  font-weight: 400;
+  margin: 10px auto 0;
+}
+
+.u-section-4 .u-carousel-control-1 {
+  width: 43px;
+  height: 43px;
+  background-image: none;
+  left: 10px;
+  right: auto;
+  position: absolute;
+}
+
+.u-section-4 .u-carousel-control-2 {
+  width: 43px;
+  height: 43px;
+  background-image: none;
+  left: auto;
+  position: absolute;
+  right: 10px;
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+  .u-section-4 .u-container-layout-4 {
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-slider-1 {
+    min-height: 533px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  .u-section-4 .u-container-layout-4 {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-slider-1 {
+    min-height: 559px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-4 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-7 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-4 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-10 {
+    font-size: 1.125rem;
+  }
 }
