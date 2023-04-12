@@ -368,12 +368,7 @@
 
 .u-container-layout.hover .u-section-2 .u-list-item-3 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
-} .u-section-3 {
-  background-image: url("images/default-image.jpg");
-  background-position: 50% 50%;
-}
-
-.u-section-3 .u-sheet-1 {
+}.u-section-3 .u-sheet-1 {
   min-height: 1276px;
 }
 
