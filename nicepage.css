@@ -12724,6 +12724,12 @@ section.u-image:not(.u-hover-box),
     flex: 1;
   }
 }
+.u-sidebar .u-form-group:not(:last-child) {
+  margin-bottom: 10px;
+}
+.u-sidebar .u-form-group > label {
+  margin-bottom: 0px;
+}
 .u-sidebar:first-child.u-indent-100 {
   margin-right: 100px;
 }
@@ -20965,11 +20971,15 @@ a.pswp__share--download:hover {
   position: relative;
 }
 .u-list-control {
+  display: flex;
+  position: relative;
+}
+.u-list-control.has-pagination.has-sorting {
   display: grid;
-  grid-template-columns: calc(33.3333%) calc(33.3333%) calc(33.3333%);
   grid-auto-flow: column;
   position: relative;
   align-items: center;
+  grid-template-columns: calc(33.3333%) calc(33.3333%) calc(33.3333%);
 }
 .u-pagination-center.u-sorting-center .u-list-control.has-pagination.has-sorting {
   grid-template-columns: 0;
