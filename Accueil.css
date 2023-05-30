@@ -369,7 +369,7 @@
 .u-container-layout.hover .u-section-2 .u-list-item-3 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 }.u-section-3 .u-sheet-1 {
-  min-height: 1276px;
+  min-height: 1297px;
 }
 
 .u-section-3 .u-shape-1 {
@@ -387,9 +387,9 @@
 
 .u-section-3 .u-slider-1 {
   width: 474px;
-  min-height: 428px;
+  min-height: 522px;
   height: auto;
-  margin: -93px auto 60px 74px;
+  margin: -93px auto 46px 74px;
 }
 
 .u-section-3 .u-carousel-indicators-1 {
@@ -403,7 +403,7 @@
 }
 
 .u-section-3 .u-container-layout-1 {
-  padding: 60px 60px 45px;
+  padding: 45px 60px;
 }
 
 .u-section-3 .u-text-1 {
@@ -424,7 +424,7 @@
   letter-spacing: 1px;
   background-image: none;
   border-style: none;
-  margin: 20px auto 0 0;
+  margin: 70px auto 0 0;
 }
 
 .u-section-3 .u-carousel-item-2 {
